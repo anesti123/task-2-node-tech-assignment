@@ -1,5 +1,4 @@
 export interface GreetResponse {
-    message: string;
-    filteredNames: string[];
-  }
-  
+  message: string;
+  filteredNames: string[];
+}
